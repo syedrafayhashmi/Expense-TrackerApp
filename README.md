@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-![Expense Tracker App](sc.png)
+![Expense Tracker App](sc.PNG)
 
 ## Usage
 ```
