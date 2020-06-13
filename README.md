@@ -1,5 +1,7 @@
 # Expense Tracker App
 
+![Expense Tracker App](sc.png)
+
 ## Usage
 ```
 npm install
